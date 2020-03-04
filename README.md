@@ -1,7 +1,10 @@
 # Assignment6 - DH150 Low-Fi Prototype
 
 ![IMG_8645](https://user-images.githubusercontent.com/59623131/75862876-6fd5cb00-5db4-11ea-8960-0f173c79e311.jpg)
-
+![IMG_1845](https://user-images.githubusercontent.com/59623131/75863237-ff7b7980-5db4-11ea-934e-d53e67e75878.jpg)
+![IMG_8510](https://user-images.githubusercontent.com/59623131/75863300-18842a80-5db5-11ea-8c55-51c718c38d2b.jpg)
+![IMG_3538](https://user-images.githubusercontent.com/59623131/75863331-22a62900-5db5-11ea-9078-29d858d3513c.jpg)
+![IMG_5045](https://user-images.githubusercontent.com/59623131/75863339-25a11980-5db5-11ea-8c52-9fbc24db058d.jpg)
 
 
 The three features I wrote as usage scenario included one on giving users the option to put in dedicated time to do their homework and to lock all social media apps throughout the time of homework. Another feature was a warning that popped up for the user when he or she scheduled something that was at the same time as another event or activity that was scheduled. Lastly, my third feature was being able to see your contacts synced schedules and availabilities so that the user can see which days their friends are free to hangout or grab a meal. I had 3 personas that were all in college, but some were older and some were younger, where one of them was a freshmen of college and another one was a 5th year part-time student. The user-research was a great process for me to understand what complications and obstacles users have when managing their time and scheduling their time. The purpose of this low-fidelity prototyping is to visualize what the features would look like and how users would interact with it. I am specifically just drawing out the main features that I want the users to focus on and this process will help me with my high-fidelity prototypes because I will have the foundation down.
